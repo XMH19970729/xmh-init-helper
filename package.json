@@ -1,0 +1,25 @@
+{
+  "name": "xmh-init-helper",
+  "version": "1.0.0",
+  "description": "service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XMH19970729/xmh-init-helper.git"
+  },
+  "author": "xiaominghui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XMH19970729/xmh-init-helper/issues"
+  },
+  "homepage": "https://github.com/XMH19970729/xmh-init-helper#readme",
+  "dependencies": {
+    "agentkeepalive": "^4.2.1",
+    "bluebird": "3.7.2",
+    "lodash": "4.17.21",
+    "superagent": "^8.0.6"
+  }
+}
