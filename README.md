@@ -1,0 +1,2 @@
+# xmh-init-helper
+service
